@@ -24,6 +24,7 @@ import json
 def solve(graph, starting_node): 
 
     # I will treat adjacency list as a dictionary
+    # added another word
     
 
     nodes = graph[0] + 15
