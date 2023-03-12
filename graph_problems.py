@@ -18,7 +18,7 @@ import json
 
 
 
-
+#adsfasdfl;jsdfa;dslfjalsk;dfj;lasdjfklj random uncommited file
 
 
 def solve(graph, starting_node): 
@@ -26,7 +26,7 @@ def solve(graph, starting_node):
     # I will treat adjacency list as a dictionary
     
 
-    nodes = graph[0]
+    nodes = graph[0] + 15
     edges = graph[1]
 
 
